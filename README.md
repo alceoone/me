@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fajar! 👋</h1>
+<h1 align="center">Hi, I'm Fajar Kurniawan! 👋</h1>
 
 <p align="center">
   <b>Fullstack Developer • Software Engineer • System Builder</b>  
